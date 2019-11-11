@@ -38,11 +38,11 @@
   .br4 {        border-radius: $border-radius-4; }
   .br-100 {     border-radius: $border-radius-circle; }
   .br-pill {    border-radius: $border-radius-pill; }
-  .br--bottom {
+  .br--top {
       border-top-left-radius: 0;
       border-top-right-radius: 0;
   }
-  .br--top {
+  .br--bottom {
       border-bottom-left-radius: 0;
       border-bottom-right-radius: 0;
   }
